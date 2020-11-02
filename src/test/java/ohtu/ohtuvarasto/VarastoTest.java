@@ -92,7 +92,7 @@ public class VarastoTest {
 
     @Test
     public void toStringTest() {
-        assertEquals("saldo = 0.0, vielä tilaa 0.0", varasto.toString());
+        assertEquals("saldo = 0.0, vielä tilaa 10.0", varasto.toString());
     }
 
 }
